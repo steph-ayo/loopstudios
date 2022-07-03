@@ -481,9 +481,9 @@ h5{
         grid-area: h;
         background-image: url(./images/image-fisheye-mobile.jpg);
     }
-    #grid-item1:hover, #grid-item2:hover, #grid-item3:hover,
-    #grid-item4:hover, #grid-item5:hover, #grid-item6:hover,
-    #grid-item7:hover, #grid-item8:hover {
+    #grid-item1, #grid-item2, #grid-item3,
+    #grid-item4, #grid-item5, #grid-item6,
+    #grid-item7, #grid-item8 {
         background-repeat: no-repeat;
         background-size: 100%;
     }
@@ -732,9 +732,9 @@ h5{
         grid-area: h;
         background-image: url(./images/image-fisheye-mobile.jpg);
     }
-    #grid-item1:hover, #grid-item2:hover, #grid-item3:hover,
-    #grid-item4:hover, #grid-item5:hover, #grid-item6:hover,
-    #grid-item7:hover, #grid-item8:hover {
+    #grid-item1, #grid-item2, #grid-item3,
+    #grid-item4, #grid-item5, #grid-item6,
+    #grid-item7, #grid-item8 {
         background-repeat: no-repeat;
         background-size: 100%;
     }
